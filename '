@@ -1,6 +1,4 @@
 this is new branch
-<<<<<<< HEAD
 git push origin -delete branchname
-=======
 this new change
->>>>>>> a3c6fe495655a4452d276f07d01a0bb36b49a1c4
+
