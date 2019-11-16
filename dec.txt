@@ -1,1 +1,2 @@
-this is new branch 
+this is new branch
+git push origin -delete branchname
